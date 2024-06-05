@@ -1,2 +1,2 @@
 # msc-datascience-ML-assignment
- Machine Learning group assignment for my Msc. Data Science and Society at Tilburg University
+This repository contains code created by me and 3 group members for a Machine Learning assignment during my Msc. Data Science and Society at Tilburg University. The assignment concerned predicting the year of publication of scientific articles, solely based on their metadata (such as authors, title and abstract). This assignment was submitted in December 2023. 
